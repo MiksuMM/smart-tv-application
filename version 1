@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8"
+    <title> Emil ja Mikael app version 1 </title>
+    <link rel="stylesheet" type="text/css" href="./styles.css" />
+  </head>
+  <body>
+    <div id="app">Hello Awesome App!</div>
+    <skript rsc="./app.js"</skript>
+  </body>
+</html>
